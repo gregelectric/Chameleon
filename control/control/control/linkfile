@@ -1,0 +1,12 @@
+-F0x30 -g -blit:0x1580.0x3fff 
+ -bdata:0.0x2ff -rwh:SSCParmBlk:0x00F7.0x00FF -BInterruptRAM:0 -Bvirtual_registers  
+ -Bcontrol_RAM 
+-BBootloaderRAM:0
+-BInterruptRAM:0
+-bSSCParmBlk:0x00EF.0x00FF
+-bBootloader:0x0080.0x147F
+-bBLChecksum:0x3FC0.0x3FFF
+-bUserApp:0x1580.0x3F7F
+ -o"output/control" 
+obj/btn_events.o obj/debounce.o obj/main.o obj/menu_fsm.o obj/switches.o 	
+ ./lib/libPSoc.a -LC:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/lib/LMM/eightpages C:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/lib/CY8C24090/cms.a C:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/lib/LMM/UASW/MAC/arith.a  

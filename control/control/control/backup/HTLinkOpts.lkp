@@ -1,0 +1,7 @@
+-L-N 
+-L-Ns
+-L-ACODE=1380h-3fbfh
+-L-AROM=1380h-3fbfh
+-L-PPD_startup=100h,Bootloader  -L-Ptext=1380h,func_lit,init -L-PBLChecksum=3fc0h 
+-L-PBootloaderRAM=00h,InterruptRAM,bss0,rbit0,ramdata0,nvram0,nvbit0,fnauto
+-L-Pbss0=

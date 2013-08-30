@@ -1,0 +1,103 @@
+# DO NOT DELETE
+./obj/boot.o :  ./lib/ADCINC.inc ./lib/BLUE.inc ./lib/GREEN.inc\
+   ./lib/PGA.inc ./lib/PRS8.inc ./lib/PSOCGP~1.INC ./lib/PWM8.inc\
+   ./lib/RED.inc ./lib/Timer8.inc ./lib/USB.inc ./lib/USB_BT~1.INC\
+   ./lib/USB_FL~1.INC ./lib/USB_ST~1.INC ./lib/USB_MA~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/include/CY8C24~1/m8c.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/include/CY8C24~1/m8ssc.inc\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\lib\GLOBAL~1.INC\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\lib\PSoCapi.inc\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\memory.inc
+./obj/btn_events.o : \
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\BTN_EV~1.H\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\debounce.h\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\main.h
+./obj/debounce.o : \
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\debounce.h
+./obj/main.o :  ./lib/ADCINC.h ./lib/BLUE.h ./lib/GREEN.h ./lib/PGA.h\
+   ./lib/PRS8.h ./lib/PSoCAPI.h ./lib/PSOCGP~1.H ./lib/PWM8.h\
+   ./lib/RED.h ./lib/Timer8.h ./lib/USB.h ./lib/adcinc.h ./lib/pga.h\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/include/CY8C24~1/FLASHB~1.H\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/include/CY8C24~1/M8C.h\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/include/CY8C24~1/m8c.h\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\BTN_EV~1.H\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\debounce.h\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\fsm.h\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\main.h\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\menu_fsm.h\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\switches.h
+./obj/menu_fsm.o : \
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\BTN_EV~1.H\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\debounce.h\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\fsm.h\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\menu_fsm.h\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\switches.h
+./obj/switches.o :  ./lib/PSOCGP~1.H\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/include/CY8C24~1/m8c.h\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\BTN_EV~1.H\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\debounce.h\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\switches.h
+./lib/obj/adcinc.o :  ./lib/ADCINC.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/include/CY8C24~1/m8c.inc\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\memory.inc
+./lib/obj/adcincint.o :  ./lib/ADCINC.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/include/CY8C24~1/m8c.inc\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\memory.inc
+./lib/obj/blue.o :  ./lib/BLUE.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/include/CY8C24~1/m8c.inc\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\memory.inc
+./lib/obj/green.o :  ./lib/GREEN.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/include/CY8C24~1/m8c.inc\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\memory.inc
+./lib/obj/pga.o :  ./lib/PGA.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/include/CY8C24~1/m8c.inc\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\memory.inc
+./lib/obj/prs8.o :  ./lib/PRS8.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/include/CY8C24~1/m8c.inc\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\memory.inc
+./lib/obj/psocconfig.o :  ./lib/GLOBAL~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/include/CY8C24~1/m8c.inc\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\memory.inc
+./lib/obj/psocconfigtbl.o : \
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/include/CY8C24~1/m8c.inc
+./lib/obj/pwm8.o :  ./lib/PWM8.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/include/CY8C24~1/m8c.inc\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\memory.inc
+./lib/obj/pwm8int.o :  ./lib/PWM8.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/include/CY8C24~1/m8c.inc\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\memory.inc
+./lib/obj/red.o :  ./lib/RED.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/include/CY8C24~1/m8c.inc\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\memory.inc
+./lib/obj/timer8.o :  ./lib/Timer8.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/include/CY8C24~1/m8c.inc\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\memory.inc
+./lib/obj/timer8int.o :  ./lib/Timer8.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/include/CY8C24~1/m8c.inc\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\memory.inc
+./lib/obj/usb.o :  ./lib/USB.inc ./lib/USB_MA~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/include/CY8C24~1/m8c.inc\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\memory.inc
+./lib/obj/usb_app_descr.o :  ./lib/USB.inc ./lib/USB_MA~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/include/CY8C24~1/m8c.inc
+./lib/obj/usb_bl_descr.o :  ./lib/USB.inc ./lib/USB_MA~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/include/CY8C24~1/m8c.inc
+./lib/obj/usb_bl_flashapi.o :  ./lib/USB.inc ./lib/USB_FL~1.INC\
+   ./lib/USB_BT~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/include/CY8C24~1/m8c.inc\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\memory.inc
+./lib/obj/usb_bt_loader.o :  ./lib/USB.inc ./lib/USB_FL~1.INC\
+   ./lib/USB_BT~1.INC ./lib/GLOBAL~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/include/CY8C24~1/m8c.inc\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\memory.inc
+./lib/obj/usb_cls_hid.o :  ./lib/USB.inc ./lib/USB_MA~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/include/CY8C24~1/m8c.inc\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\memory.inc
+./lib/obj/usb_drv.o :  ./lib/USB.inc ./lib/USB_MA~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/include/CY8C24~1/m8c.inc\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\memory.inc
+./lib/obj/usb_std.o :  ./lib/USB.inc ./lib/USB_MA~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/include/CY8C24~1/m8c.inc
+./lib/obj/usbint.o :  ./lib/USB.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.4/Common/CY3E64~1/tools/include/CY8C24~1/m8c.inc\
+   C:\LIGHTC~1\Firmware\CHAMEL~2\control\control\control\memory.inc

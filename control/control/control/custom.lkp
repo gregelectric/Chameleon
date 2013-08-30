@@ -1,0 +1,6 @@
+-BBootloaderRAM:0
+-BInterruptRAM:0
+-bSSCParmBlk:0x00EF.0x00FF
+-bBootloader:0x0080.0x147F
+-bBLChecksum:0x3FC0.0x3FFF
+-bUserApp:0x1580.0x3F7F

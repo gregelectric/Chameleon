@@ -1,0 +1,9 @@
+--autobank=1 
+-L-N 
+-L-Ns
+-L-ACODE=1580h-3F7Fh
+-L-AROM=1580h-3F7Fh
+-L-PPD_startup=0080h,Bootloader  -L-Ptext=1580h,func_lit,init -L-PBLChecksum=3FC0h
+-L-PBootloaderRAM=00h,InterruptRAM,bss0,rbit0,ramdata0,nvram0,nvbit0
+-L-Pfnauto=100h,bss1
+-L-Pbss0=

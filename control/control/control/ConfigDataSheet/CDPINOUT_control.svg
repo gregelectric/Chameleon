@@ -1,0 +1,1214 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000303 Stylable//EN" "http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/ svg-20000303-stylable.dtd">
+
+<svg zoomAndPan="magnify" xmlns:xmlns="http://www.w3.org/2000/svg-20000303-stylable" font-family="Helvetica" preserveAspectRatio="xMinYMin meet" viewBox=" 0 0 700 890">
+  
+
+
+  
+
+
+
+  <desc>
+    InterConnect View 
+  </desc>
+  
+
+
+  
+
+  <style type="text/css">
+  </style>
+  
+
+
+  <script type="text/ecmascript">
+    
+  
+     
+  </script>
+  
+
+
+  <g id="docBody">
+      
+
+    	
+
+    <defs>
+      
+	
+      <linearGradient gradientTransform="rotate(90)" id="MyGradientDarkYellow2">
+         
+		
+        <stop style="stop-color:lightgrey" offset="0%" />
+         
+		
+        <stop style="stop-color:navajowhite" offset="50%" />
+         
+		
+        <stop style="stop-color:lightgrey" offset="100%" />
+         
+	
+      </linearGradient>
+       
+
+	
+      <linearGradient gradientTransform="rotate(90)" id="MyGradientDarkYellow3">
+         
+		
+        <stop style="stop-color:lightgrey" offset="0%" />
+         
+		
+        <stop style="stop-color:navajowhite" offset="10%" />
+         
+		
+        <stop style="stop-color:lightgrey" offset="20%" />
+         
+		
+        <stop style="stop-color:navajowhite" offset="30%" />
+         
+		
+        <stop style="stop-color:lightgrey" offset="40%" />
+         
+		
+        <stop style="stop-color:navajowhite" offset="50%" />
+         
+		
+        <stop style="stop-color:lightgrey" offset="60%" />
+         
+		
+        <stop style="stop-color:navajowhite" offset="70%" />
+         
+		
+        <stop style="stop-color:lightgrey" offset="80%" />
+         
+		
+        <stop style="stop-color:navajowhite" offset="90%" />
+         
+		
+        <stop style="stop-color:lightgrey" offset="100%" />
+         
+	
+      </linearGradient>
+       
+
+	
+      <linearGradient gradientTransform="rotate(90)" id="MyGradientDarkYellow">
+         
+		
+        <stop style="stop-color:lightgrey" offset="0%" />
+         
+		
+        <stop style="stop-color:goldenrod" offset="100%" />
+         
+		//
+        <stop style="stop-color:black" offset="100%" />
+         
+	
+      </linearGradient>
+       
+
+	
+      <linearGradient gradientTransform="rotate(90)" id="MyGradientDarkCyan">
+         
+		
+        <stop style="stop-color:lightgrey" offset="0%" />
+         
+		
+        <stop style="stop-color:darkcyan" offset="100%" />
+         
+		//
+        <stop style="stop-color:black" offset="100%" />
+         
+	
+      </linearGradient>
+       
+
+	
+      <linearGradient gradientTransform="rotate(90)" id="MyGradientMagenta">
+         
+		
+        <stop style="stop-color:lightgrey" offset="0%" />
+         
+		
+        <stop style="stop-color:magenta" offset="100%" />
+         
+		//
+        <stop style="stop-color:black" offset="100%" />
+         
+	
+      </linearGradient>
+       
+
+	
+      <linearGradient gradientTransform="rotate(90)" id="MyGradientCyan">
+         
+		
+        <stop style="stop-color:lightgrey" offset="0%" />
+         
+		
+        <stop style="stop-color:cyan" offset="100%" />
+         
+		//
+        <stop style="stop-color:black" offset="100%" />
+         
+	
+      </linearGradient>
+       
+									
+	
+      <linearGradient gradientTransform="rotate(90)" id="MyGradientBlue">
+         
+		
+        <stop style="stop-color:lightgrey" offset="0%" />
+         
+		
+        <stop style="stop-color:dodgerblue" offset="100%" />
+         
+		//
+        <stop style="stop-color:black" offset="100%" />
+         
+	
+      </linearGradient>
+       
+
+	
+      <linearGradient gradientTransform="rotate(90)" id="MyGradientDarkGreen">
+         
+		
+        <stop style="stop-color:lightgrey" offset="0%" />
+         
+		
+        <stop style="stop-color:forestgreen" offset="100%" />
+         
+		//
+        <stop style="stop-color:black" offset="100%" />
+         
+	
+      </linearGradient>
+       
+
+	
+      <linearGradient gradientTransform="rotate(90)" id="MyGradientNoColor">
+         
+		
+        <stop style="stop-color:white" offset="0%" />
+         
+		
+        <stop style="stop-color:lightgrey" offset="100%" />
+         
+		//
+        <stop style="stop-color:black" offset="100%" />
+         
+	
+      </linearGradient>
+       
+
+	
+      <linearGradient gradientTransform="rotate(90)" id="MyGradientRed">
+         
+		
+        <stop style="stop-color:lightgrey" offset="0%" />
+         
+		
+        <stop style="stop-color:indianred" offset="100%" />
+         
+	
+      </linearGradient>
+       
+
+	
+      <linearGradient gradientTransform="rotate(90)" id="MyGradientDarkMagenta">
+         
+		
+        <stop style="stop-color:lightgrey" offset="0%" />
+         
+		
+        <stop style="stop-color:mediumorchid" offset="100%" />
+         
+		//
+        <stop style="stop-color:black" offset="100%" />
+         
+	
+      </linearGradient>
+       
+
+	
+      <linearGradient gradientTransform="rotate(90)" id="MyGradientGreen">
+         
+		
+        <stop style="stop-color:lightgrey" offset="0%" />
+         
+		
+        <stop style="stop-color:lightgreen" offset="100%" />
+         
+		//
+        <stop style="stop-color:black" offset="100%" />
+         
+	
+      </linearGradient>
+       
+
+	
+      <linearGradient gradientTransform="rotate(90)" id="MyGradientYellow">
+         
+		
+        <stop style="stop-color:lightgrey" offset="0%" />
+         
+		
+        <stop style="stop-color:yellow" offset="100%" />
+         
+		//
+        <stop style="stop-color:black" offset="100%" />
+         
+	
+      </linearGradient>
+       
+
+	
+      <linearGradient gradientTransform="rotate(90)" id="MyGradientDarkRed">
+         
+		
+        <stop style="stop-color:lightgrey" offset="0%" />
+         
+		
+        <stop style="stop-color:firebrick" offset="100%" />
+         
+		//
+        <stop style="stop-color:black" offset="100%" />
+         
+	
+      </linearGradient>
+       
+
+	
+      
+	
+      <marker preserveAspectRatio="xMidYMid meet" refY="4" refX="4" markerHeight="10" markerWidth="10" id="mCircle">
+        
+		
+        <circle style="fill:black stroke:black" r="3" cy="4" cx="4" />
+        
+	
+      </marker>
+      
+
+	
+      
+
+	
+      <g id="Symbol_AND">
+        
+		
+        <g transform="scale(.35)">
+          
+			
+          <path d="M29.641,9l-1.441,1.8     L26.4,12.48l-2.041,1.439l-2.399,1.32l-2.761,1.08l-2.879,0.96L13.2,17.88H6.12l1.44-2.16l1.08-2.28l0.6-2.16L9.48,9L9.24,6.72     l-0.6-2.28L7.56,2.16L6.12,0h7.08l3.12,0.6l2.879,0.96l2.761,1.08l2.399,1.32l2.16,1.56l1.68,1.68L29.641,9" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" />
+          
+	
+			
+          <path d="M20.641,17.88H6.12V0     h14.521l1.92,0.24l1.92,0.6l1.68,1.08L27.6,3.36l1.08,1.68L29.4,6.96L29.641,9l-0.24,2.041l-0.721,1.799L27.6,14.52l-1.439,1.44     l-1.68,1.08l-1.92,0.6L20.641,17.88" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" />
+          
+			
+          <path d="M29.50,9 l 5 0" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" />
+          
+		
+        </g>
+        
+	
+      </g>
+      
+	
+	
+      <g id="Symbol_OR">
+        
+		
+        <g transform="scale(.35)">
+          
+			
+          <path d="M35.76,9H17.88" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" />
+          
+			
+          <path d="M29.641,9l-1.441,1.8     L26.4,12.48l-2.041,1.439l-2.399,1.32l-2.761,1.08l-2.879,0.96L13.2,17.88H6.12l1.44-2.16l1.08-2.28l0.6-2.16L9.48,9L9.24,6.72     l-0.6-2.28L7.56,2.16L6.12,0h7.08l3.12,0.6l2.879,0.96l2.761,1.08l2.399,1.32l2.16,1.56l1.68,1.68L29.641,9" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" />
+          
+		
+        </g>
+        
+	
+      </g>
+      
+
+	
+      <g id="Symbol_XOR">
+        
+		
+        <g transform="scale(.35)">
+          
+			
+          <path d="M35.76,9H17.88" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" />
+          
+			
+          <path d="M29.641,9l-1.441,1.8L26.4,12.48l-2.041,1.439l-2.399,1.32l-2.761,1.08l-2.879,0.96L13.2,17.88H6.12     l1.44-2.16l1.08-2.28l0.6-2.16L9.48,9L9.24,6.72l-0.6-2.28L7.56,2.16L6.12,0h7.08l3.12,0.6l2.879,0.96l2.761,1.08l2.399,1.32     l2.16,1.56l1.68,1.68L29.641,9" />
+          
+			
+          <path d="M29.641,9l-1.441,1.8     L26.4,12.48l-2.041,1.439l-2.399,1.32l-2.761,1.08l-2.879,0.96L13.2,17.88H6.12l1.44-2.16l1.08-2.28l0.6-2.16L9.48,9L9.24,6.72     l-0.6-2.28L7.56,2.16L6.12,0h7.08l3.12,0.6l2.879,0.96l2.761,1.08l2.399,1.32l2.16,1.56l1.68,1.68L29.641,9" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" />
+          
+			
+          <path d="M3.84,17.88l1.44-2.16     l0.96-2.28l0.6-2.16L7.08,9L6.84,6.72l-0.6-2.28L5.28,2.16L3.84,0" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" />
+          
+		
+        </g>
+        
+	
+      </g>
+      
+
+	
+      <g id="Symbol_NOT">
+        
+		
+        <g transform="scale(.52)">
+          
+			
+          <path d="M13.439,6.72l0.24,0.601l0.48,0.359h0.6    l0.6-0.359L15.48,6.72l-0.121-0.6l-0.6-0.36h-0.6l-0.48,0.36L13.439,6.72 M0,0l13.439,6.72L0,13.439V0" stroke-linejoin="round" stroke-width="1.15" />
+          
+			
+          <path d="M14.52,6.72h5.641" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.15" />
+          
+		
+        </g>
+        
+	
+      </g>
+      	
+
+	
+      <g id="Symbol_NAND">
+        
+		
+        <g transform="scale(.35)">
+          
+			
+          <path d="M35.76,9H17.88" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" />
+          
+			
+          <path d="M29.641,9l-1.441,1.8     L26.4,12.48l-2.041,1.439l-2.399,1.32l-2.761,1.08l-2.879,0.96L13.2,17.88H6.12l1.44-2.16l1.08-2.28l0.6-2.16L9.48,9L9.24,6.72     l-0.6-2.28L7.56,2.16L6.12,0h7.08l3.12,0.6l2.879,0.96l2.761,1.08l2.399,1.32l2.16,1.56l1.68,1.68L29.641,9" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" />
+          
+			
+          <path d="M32.16,9l-0.12-0.72     L31.561,7.8L30.84,7.68l-0.6,0.12l-0.6,0.48L29.52,9l0.121,0.72l0.6,0.479l0.6,0.12l0.721-0.12L32.04,9.72L32.16,9" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" />
+          
+			
+          <path d="M20.641,17.88H6.12V0     h14.521l1.92,0.24l1.92,0.6l1.68,1.08L27.6,3.36l1.08,1.68L29.4,6.96L29.641,9l-0.24,2.041l-0.721,1.799L27.6,14.52l-1.439,1.44     l-1.68,1.08l-1.92,0.6L20.641,17.88" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" />
+          
+		
+        </g>
+        
+	
+      </g>
+      
+
+	
+      <g id="Symbol_NOR">
+        
+		
+        <g transform="scale(.35)">
+          
+			
+          <path d="M35.76,9H17.88" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" />
+          
+			
+          <path d="M29.641,9l-1.441,1.8     L26.4,12.48l-2.041,1.439l-2.399,1.32l-2.761,1.08l-2.879,0.96L13.2,17.88H6.12l1.44-2.16l1.08-2.28l0.6-2.16L9.48,9L9.24,6.72     l-0.6-2.28L7.56,2.16L6.12,0h7.08l3.12,0.6l2.879,0.96l2.761,1.08l2.399,1.32l2.16,1.56l1.68,1.68L29.641,9" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" />
+          
+			
+          <path d="M32.16,9l-0.12-0.72     L31.561,7.8L30.84,7.68l-0.6,0.12l-0.6,0.48L29.52,9l0.121,0.72l0.6,0.479l0.6,0.12l0.721-0.12L32.04,9.72L32.16,9" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" />
+          
+		
+        </g>
+        
+	
+      </g>
+      
+
+	
+      <g id="Symbol_XNOR">
+        
+		
+        <g transform="scale(.35)">
+          
+			
+          <path d="M35.76,9H17.88" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" />
+          
+			
+          <path d="M29.641,9l-1.441,1.8L26.4,12.48l-2.041,1.439l-2.399,1.32l-2.761,1.08l-2.879,0.96L13.2,17.88H6.12     l1.44-2.16l1.08-2.28l0.6-2.16L9.48,9L9.24,6.72l-0.6-2.28L7.56,2.16L6.12,0h7.08l3.12,0.6l2.879,0.96l2.761,1.08l2.399,1.32     l2.16,1.56l1.68,1.68L29.641,9" />
+          
+			
+          <path d="M29.641,9l-1.441,1.8     L26.4,12.48l-2.041,1.439l-2.399,1.32l-2.761,1.08l-2.879,0.96L13.2,17.88H6.12l1.44-2.16l1.08-2.28l0.6-2.16L9.48,9L9.24,6.72     l-0.6-2.28L7.56,2.16L6.12,0h7.08l3.12,0.6l2.879,0.96l2.761,1.08l2.399,1.32l2.16,1.56l1.68,1.68L29.641,9" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" />
+          
+			
+          <path d="M3.84,17.88l1.44-2.16     l0.96-2.28l0.6-2.16L7.08,9L6.84,6.72l-0.6-2.28L5.28,2.16L3.84,0" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" />
+          
+			
+          <path d="M32.16,9l-0.12-0.72     L31.561,7.8L30.84,7.68l-0.6,0.12l-0.6,0.48L29.52,9l0.121,0.72l0.6,0.479l0.6,0.12l0.721-0.12L32.04,9.72L32.16,9" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" />
+          
+		
+        </g>
+        
+	
+      </g>
+      
+
+	
+      <g id="Symbol_FALSE">
+        
+		
+        <g transform="scale(.40)">
+          
+			
+          <path d="M49.81,9.25     L49.57,7.21l-0.72-1.92l-1.08-1.68l-1.44-1.44l-1.68-1.08l-1.921-0.6L40.69,0.25l-1.92,0.24l-1.92,0.6l-1.68,1.08l-1.441,1.44     L32.65,5.29l-0.72,1.92l-0.24,2.04l0.24,2.04l0.72,1.92l1.079,1.681l1.441,1.439l1.68,1.08l1.92,0.6l1.92,0.24l2.039-0.24     l1.921-0.6l1.68-1.08l1.44-1.439l1.08-1.681l0.72-1.92L49.81,9.25" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" />
+          
+		
+        </g>
+        
+	
+      </g>
+      	
+
+	
+      <g id="Symbol_TRUE">
+        
+		
+        <g transform="scale(.40)">
+          
+				
+          <path d="M4.81,0.25v18" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" />
+          
+				
+          <path d="M0.25,18.25h9.12" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" />
+          
+				
+          <path d="M4.81,0.25L0.25,4.69" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" />
+          
+		
+        </g>
+        
+	
+      </g>
+      
+
+	
+      <g id="Symbol_GROUND">
+        
+		
+        <g transform="scale(.40)">
+          
+			
+          <path d="M6.72,22.44V4.8" stroke-linejoin="round" stroke-linecap="square" stroke-width="1.5" />
+          
+			
+          <path d="M3.96,5.52L6.72,0l2.76,5.52H3.96" />
+          
+			
+          <text startOffset="0" transform="matrix(1 0 0 1 0 30.6001)">
+            <tspan font-size="8" font-family="'Courier-Bold'" y="0" x="0">
+              VCC
+            </tspan>
+          </text>
+          
+		
+        </g>
+        
+	
+      </g>
+      
+
+	
+      
+
+	
+      
+	
+	
+      
+
+
+    </defs>
+    
+
+
+
+    
+
+
+    
+
+    <g id="background">
+      
+
+
+	
+      <rect style="fill:  none" height="100%" width="100%" y="0" x="0" id="anchor_pt0" />
+      
+	
+      <rect style="fill:  none" height="96400" width="94000" y="-38560" x="-37600" id="anchor_pt2" />
+      
+	
+      <rect style="fill:  none" height="19280" width="18800" y="0" x="0" id="anchor_pt" />
+      
+
+	
+      <text startOffset="0" y="16" x="425" style="font-family:Sans-Serif;font-size:16;;" id="XYText" />
+      
+	
+	//commented out circle where cursor is
+	
+      <circle cy="0" cx="0" visibility="hidden" stroke="orange" fill="none" r="10" id="cursor" />
+      
+
+
+
+    </g>
+    
+
+
+    
+
+    <g id="Tab1">
+      
+
+      
+
+    </g>
+    
+
+
+
+    <text startOffset="0" y="100" x="100" style="font-family:Sans-Serif;font-size:32;;" id="DbgText" />
+    	
+
+  </g>
+  
+
+  <path stroke-width="2" stroke="black" fill="white" d="M 160 160 l 400 0 l 0 400 l -400 0 l 0 -400" />
+  <circle stroke-width="2" stroke="black" fill="white" r="8" cy="178" cx="178" />
+  <text startOffset="0" style=" font-weight:bold; font-size:12; fill:#000000;  text-anchor: middle" y="350" x="340">
+    CY8C24894-24LFXI MLF
+  </text>
+  <text startOffset="0" style=" font-weight:normal; font-size:10; fill:#000000" y="708" x="385">
+    Std CPU
+  </text>
+  <path stroke-width="2" stroke="black" fill="lightskyblue" d="M 340 690 l 40 0l 0 20l -40 0l 0 -20" />
+  <text startOffset="0" style=" font-weight:normal; font-size:10; fill:#000000" y="728" x="385">
+    Global In
+  </text>
+  <path stroke-width="2" stroke="black" fill="lightpink" d="M 340 710 l 40 0l 0 20l -40 0l 0 -20" />
+  <text startOffset="0" style=" font-weight:normal; font-size:10; fill:#000000" y="748" x="385">
+    Global Out
+  </text>
+  <path stroke-width="2" stroke="black" fill="indianred" d="M 340 730 l 40 0l 0 20l -40 0l 0 -20" />
+  <text startOffset="0" style=" font-weight:normal; font-size:10; fill:#000000" y="768" x="385">
+    Analog In
+  </text>
+  <path stroke-width="2" stroke="black" fill="palegreen" d="M 340 750 l 40 0l 0 20l -40 0l 0 -20" />
+  <text startOffset="0" style=" font-weight:normal; font-size:10; fill:#000000" y="788" x="385">
+    Analog Out
+  </text>
+  <path stroke-width="2" stroke="black" fill="seagreen" d="M 340 770 l 40 0l 0 20l -40 0l 0 -20" />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_1" d="M 160	160 m 0 65 l 20 0 l 0 10 l -20 0 " />
+  <text startOffset="0" style=" font-size:10; fill:#000000" y="235" x="184">
+    1 P2[3]
+  </text>
+  <text startOffset="0" text-anchor="end" style=" font-size:10; fill:#000000" y="235" x="156" id="PINDIPLAYNAME_Port_2_3">
+    Port_2_3
+  </text>
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_2" d="M 160	160 m 0 85 l 20 0 l 0 10 l -20 0 " />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_3" d="M 160	160 m 0 105 l 20 0 l 0 10 l -20 0 " />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_4" d="M 160	160 m 0 125 l 20 0 l 0 10 l -20 0 " />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_5" d="M 160	160 m 0 145 l 20 0 l 0 10 l -20 0 " />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_6" d="M 160	160 m 0 165 l 20 0 l 0 10 l -20 0 " />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_7" d="M 160	160 m 0 185 l 20 0 l 0 10 l -20 0 " />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_8" d="M 160	160 m 0 205 l 20 0 l 0 10 l -20 0 " />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_9" d="M 160	160 m 0 225 l 20 0 l 0 10 l -20 0 " />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_10" d="M 160	160 m 0 245 l 20 0 l 0 10 l -20 0 " />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_11" d="M 160	160 m 0 265 l 20 0 l 0 10 l -20 0 " />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_12" d="M 160	160 m 0 285 l 20 0 l 0 10 l -20 0 " />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_13" d="M 160	160 m 0 305 l 20 0 l 0 10 l -20 0 " />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_14" d="M 160	160 m 0 325 l 20 0 l 0 10 l -20 0 " />
+  <text startOffset="0" style=" font-size:10; fill:#000000" y="255" x="184">
+    2 P2[1]
+  </text>
+  <text startOffset="0" text-anchor="end" style=" font-size:10; fill:#000000" y="255" x="156" id="PINDIPLAYNAME_Port_2_1">
+    Port_2_1
+  </text>
+  <text startOffset="0" style=" font-size:10; fill:#000000" y="275" x="184">
+    3 P4[7]
+  </text>
+  <text startOffset="0" text-anchor="end" style=" font-size:10; fill:#000000" y="275" x="156" id="PINDIPLAYNAME_Port_4_7">
+    Port_4_7
+  </text>
+  <text startOffset="0" style=" font-size:10; fill:#000000" y="295" x="184">
+    4 P4[5]
+  </text>
+  <text startOffset="0" text-anchor="end" style=" font-size:10; fill:#000000" y="295" x="156" id="PINDIPLAYNAME_Port_4_5">
+    Port_4_5
+  </text>
+  <text startOffset="0" style=" font-size:10; fill:#000000" y="315" x="184">
+    5 P4[3]
+  </text>
+  <text startOffset="0" text-anchor="end" style=" font-size:10; fill:#000000" y="315" x="156" id="PINDIPLAYNAME_Port_4_3">
+    Port_4_3
+  </text>
+  <text startOffset="0" style=" font-size:10; fill:#000000" y="335" x="184">
+    6 P4[1]
+  </text>
+  <text startOffset="0" text-anchor="end" style=" font-size:10; fill:#000000" y="335" x="156" id="PINDIPLAYNAME_Port_4_1">
+    Port_4_1
+  </text>
+  <text startOffset="0" style=" font-size:10; fill:#000000" y="355" x="184">
+    7 P3[7]
+  </text>
+  <text startOffset="0" text-anchor="end" style=" font-size:10; fill:#000000" y="355" x="156" id="PINDIPLAYNAME_Port_3_7">
+    Port_3_7
+  </text>
+  <text startOffset="0" style=" font-size:10; fill:#000000" y="375" x="184">
+    8 P3[5]
+  </text>
+  <text startOffset="0" text-anchor="end" style=" font-size:10; fill:#000000" y="375" x="156" id="PINDIPLAYNAME_Port_3_5">
+    PWR_BTN
+  </text>
+  <text startOffset="0" style=" font-size:10; fill:#000000" y="395" x="184">
+    9 P3[3]
+  </text>
+  <text startOffset="0" text-anchor="end" style=" font-size:10; fill:#000000" y="395" x="156" id="PINDIPLAYNAME_Port_3_3">
+    Port_3_3
+  </text>
+  <text startOffset="0" style=" font-size:10; fill:#000000" y="415" x="184">
+    10 P3[1]
+  </text>
+  <text startOffset="0" text-anchor="end" style=" font-size:10; fill:#000000" y="415" x="156" id="PINDIPLAYNAME_Port_3_1">
+    Port_3_1
+  </text>
+  <text startOffset="0" style=" font-size:10; fill:#000000" y="435" x="184">
+    11 P5[7]
+  </text>
+  <text startOffset="0" text-anchor="end" style=" font-size:10; fill:#000000" y="435" x="156" id="PINDIPLAYNAME_Port_5_7">
+    Port_5_7
+  </text>
+  <text startOffset="0" style=" font-size:10; fill:#000000" y="455" x="184">
+    12 P5[5]
+  </text>
+  <text startOffset="0" text-anchor="end" style=" font-size:10; fill:#000000" y="455" x="156" id="PINDIPLAYNAME_Port_5_5">
+    Port_5_5
+  </text>
+  <text startOffset="0" style=" font-size:10; fill:#000000" y="475" x="184">
+    13 P5[3]
+  </text>
+  <text startOffset="0" text-anchor="end" style=" font-size:10; fill:#000000" y="475" x="156" id="PINDIPLAYNAME_Port_5_3">
+    Port_5_3
+  </text>
+  <text startOffset="0" style=" font-size:10; fill:#000000" y="495" x="184">
+    14 P5[1]
+  </text>
+  <text startOffset="0" text-anchor="end" style=" font-size:10; fill:#000000" y="495" x="156" id="PINDIPLAYNAME_Port_5_1">
+    Port_5_1
+  </text>
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_15" d="M 160	560 m 65 0  l  0 -20 l 10 0 l  0 20" />
+  <g id="FFFPO_CreateBottomPins40">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_PO_CreateBottomPins40">
+        15 P1[7]
+      </textPath>
+    </text>
+  </g>
+  <text startOffset="0" transform="rotate(270)" text-anchor="end" style=" font-size:10; fill:#000000" y="235" x="-564" id="PINDIPLAYNAME_Port_1_7">
+    Port_1_7
+  </text>
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_16" d="M 160	560 m 85 0  l  0 -20 l 10 0 l  0 20" />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_17" d="M 160	560 m 105 0  l  0 -20 l 10 0 l  0 20" />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_18" d="M 160	560 m 125 0  l  0 -20 l 10 0 l  0 20" />
+  <path style="fill:white;stroke-width:2;stroke:black;" id="PO_19" d="M 160	560 m 145 0  l  0 -20 l 10 0 l  0 20" />
+  <path style="fill:white;stroke-width:2;stroke:black;" id="PO_20" d="M 160	560 m 165 0  l  0 -20 l 10 0 l  0 20" />
+  <path style="fill:white;stroke-width:2;stroke:black;" id="PO_21" d="M 160	560 m 185 0  l  0 -20 l 10 0 l  0 20" />
+  <path style="fill:white;stroke-width:2;stroke:black;" id="PO_22" d="M 160	560 m 205 0  l  0 -20 l 10 0 l  0 20" />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_23" d="M 160	560 m 225 0  l  0 -20 l 10 0 l  0 20" />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_24" d="M 160	560 m 245 0  l  0 -20 l 10 0 l  0 20" />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_25" d="M 160	560 m 265 0  l  0 -20 l 10 0 l  0 20" />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_26" d="M 160	560 m 285 0  l  0 -20 l 10 0 l  0 20" />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_27" d="M 160	560 m 305 0  l  0 -20 l 10 0 l  0 20" />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_28" d="M 160	560 m 325 0  l  0 -20 l 10 0 l  0 20" />
+  <g id="FFFPO_CreateBottomPins41">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_PO_CreateBottomPins41">
+        16 P1[5]
+      </textPath>
+    </text>
+  </g>
+  <text startOffset="0" transform="rotate(270)" text-anchor="end" style=" font-size:10; fill:#000000" y="255" x="-564" id="PINDIPLAYNAME_Port_1_5">
+    Port_1_5
+  </text>
+  <g id="FFFPO_CreateBottomPins42">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_PO_CreateBottomPins42">
+        17 P1[3]
+      </textPath>
+    </text>
+  </g>
+  <text startOffset="0" transform="rotate(270)" text-anchor="end" style=" font-size:10; fill:#000000" y="275" x="-564" id="PINDIPLAYNAME_Port_1_3">
+    Port_1_3
+  </text>
+  <g id="FFFPO_CreateBottomPins43">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_PO_CreateBottomPins43">
+        18 P1[1]
+      </textPath>
+    </text>
+  </g>
+  <text startOffset="0" transform="rotate(270)" text-anchor="end" style=" font-size:10; fill:#000000" y="295" x="-564" id="PINDIPLAYNAME_Port_1_1">
+    Port_1_1
+  </text>
+  <g id="FFFPO_CreateBottomPins44">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_PO_CreateBottomPins44">
+        19 VSS
+      </textPath>
+    </text>
+  </g>
+  <g id="FFFPO_CreateBottomPins45">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_PO_CreateBottomPins45">
+        20 D+
+      </textPath>
+    </text>
+  </g>
+  <g id="FFFPO_CreateBottomPins46">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_PO_CreateBottomPins46">
+        21 D-
+      </textPath>
+    </text>
+  </g>
+  <g id="FFFPO_CreateBottomPins47">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_PO_CreateBottomPins47">
+        22 VDD
+      </textPath>
+    </text>
+  </g>
+  <text startOffset="0" transform="rotate(270)" text-anchor="end" style=" font-size:10; fill:#000000" y="375" x="-564" id="PINDIPLAYNAME_">
+    
+  </text>
+  <g id="FFFPO_CreateBottomPins48">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_PO_CreateBottomPins48">
+        23 P7[7]
+      </textPath>
+    </text>
+  </g>
+  <text startOffset="0" transform="rotate(270)" text-anchor="end" style=" font-size:10; fill:#000000" y="395" x="-564" id="PINDIPLAYNAME_Port_7_7">
+    Port_7_7
+  </text>
+  <g id="FFFPO_CreateBottomPins49">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_PO_CreateBottomPins49">
+        24 P7[0]
+      </textPath>
+    </text>
+  </g>
+  <text startOffset="0" transform="rotate(270)" text-anchor="end" style=" font-size:10; fill:#000000" y="415" x="-564" id="PINDIPLAYNAME_Port_7_0">
+    Port_7_0
+  </text>
+  <g id="FFFPO_CreateBottomPins410">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_PO_CreateBottomPins410">
+        25 P1[0]
+      </textPath>
+    </text>
+  </g>
+  <text startOffset="0" transform="rotate(270)" text-anchor="end" style=" font-size:10; fill:#000000" y="435" x="-564" id="PINDIPLAYNAME_Port_1_0">
+    Port_1_0
+  </text>
+  <g id="FFFPO_CreateBottomPins411">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_PO_CreateBottomPins411">
+        26 P1[2]
+      </textPath>
+    </text>
+  </g>
+  <text startOffset="0" transform="rotate(270)" text-anchor="end" style=" font-size:10; fill:#000000" y="455" x="-564" id="PINDIPLAYNAME_Port_1_2">
+    Port_1_2
+  </text>
+  <g id="FFFPO_CreateBottomPins412">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_PO_CreateBottomPins412">
+        27 P1[4]
+      </textPath>
+    </text>
+  </g>
+  <text startOffset="0" transform="rotate(270)" text-anchor="end" style=" font-size:10; fill:#000000" y="475" x="-564" id="PINDIPLAYNAME_Port_1_4">
+    Port_1_4
+  </text>
+  <g id="FFFPO_CreateBottomPins413">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_PO_CreateBottomPins413">
+        28 P1[6]
+      </textPath>
+    </text>
+  </g>
+  <text startOffset="0" transform="rotate(270)" text-anchor="end" style=" font-size:10; fill:#000000" y="495" x="-564" id="PINDIPLAYNAME_Port_1_6">
+    Port_1_6
+  </text>
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_29" d="M 560 485 l -20 0 l 0 10 l 20 0 " />
+  <text startOffset="0" style=" font-size:10; fill:#000000; text-anchor:end" y="495" x="536">
+    29 P5[0]
+  </text>
+  <text startOffset="0" id="PINDIPLAYNAME_Port_5_0" text-anchor="start" style=" font-size:10; fill:#000000" y="495" x="564">
+    Port_5_0
+  </text>
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_30" d="M 560 465 l -20 0 l 0 10 l 20 0 " />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_31" d="M 560 445 l -20 0 l 0 10 l 20 0 " />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_32" d="M 560 425 l -20 0 l 0 10 l 20 0 " />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_33" d="M 560 405 l -20 0 l 0 10 l 20 0 " />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_34" d="M 560 385 l -20 0 l 0 10 l 20 0 " />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_35" d="M 560 365 l -20 0 l 0 10 l 20 0 " />
+  <path style="fill:white;stroke-width:2;stroke:black;" id="PO_36" d="M 560 345 l -20 0 l 0 10 l 20 0 " />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_37" d="M 560 325 l -20 0 l 0 10 l 20 0 " />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_38" d="M 560 305 l -20 0 l 0 10 l 20 0 " />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_39" d="M 560 285 l -20 0 l 0 10 l 20 0 " />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_40" d="M 560 265 l -20 0 l 0 10 l 20 0 " />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_41" d="M 560 245 l -20 0 l 0 10 l 20 0 " />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_42" d="M 560 225 l -20 0 l 0 10 l 20 0 " />
+  <text startOffset="0" style=" font-size:10; fill:#000000; text-anchor:end" y="475" x="536">
+    30 P5[2]
+  </text>
+  <text startOffset="0" id="PINDIPLAYNAME_Port_5_2" text-anchor="start" style=" font-size:10; fill:#000000" y="475" x="564">
+    Port_5_2
+  </text>
+  <text startOffset="0" style=" font-size:10; fill:#000000; text-anchor:end" y="455" x="536">
+    31 P5[4]
+  </text>
+  <text startOffset="0" id="PINDIPLAYNAME_Port_5_4" text-anchor="start" style=" font-size:10; fill:#000000" y="455" x="564">
+    Port_5_4
+  </text>
+  <text startOffset="0" style=" font-size:10; fill:#000000; text-anchor:end" y="435" x="536">
+    32 P5[6]
+  </text>
+  <text startOffset="0" id="PINDIPLAYNAME_Port_5_6" text-anchor="start" style=" font-size:10; fill:#000000" y="435" x="564">
+    Port_5_6
+  </text>
+  <text startOffset="0" style=" font-size:10; fill:#000000; text-anchor:end" y="415" x="536">
+    33 P3[0]
+  </text>
+  <text startOffset="0" id="PINDIPLAYNAME_Port_3_0" text-anchor="start" style=" font-size:10; fill:#000000" y="415" x="564">
+    Port_3_0
+  </text>
+  <text startOffset="0" style=" font-size:10; fill:#000000; text-anchor:end" y="395" x="536">
+    34 P3[2]
+  </text>
+  <text startOffset="0" id="PINDIPLAYNAME_Port_3_2" text-anchor="start" style=" font-size:10; fill:#000000" y="395" x="564">
+    Port_3_2
+  </text>
+  <text startOffset="0" style=" font-size:10; fill:#000000; text-anchor:end" y="375" x="536">
+    35 P3[4]
+  </text>
+  <text startOffset="0" id="PINDIPLAYNAME_Port_3_4" text-anchor="start" style=" font-size:10; fill:#000000" y="375" x="564">
+    Port_3_4
+  </text>
+  <text startOffset="0" style=" font-size:10; fill:#000000; text-anchor:end" y="355" x="536">
+    36 XRES
+  </text>
+  <text startOffset="0" id="PINDIPLAYNAME_" text-anchor="start" style=" font-size:10; fill:#000000" y="355" x="564">
+    
+  </text>
+  <text startOffset="0" style=" font-size:10; fill:#000000; text-anchor:end" y="335" x="536">
+    37 P4[0]
+  </text>
+  <text startOffset="0" id="PINDIPLAYNAME_Port_4_0" text-anchor="start" style=" font-size:10; fill:#000000" y="335" x="564">
+    Port_4_0
+  </text>
+  <text startOffset="0" style=" font-size:10; fill:#000000; text-anchor:end" y="315" x="536">
+    38 P4[2]
+  </text>
+  <text startOffset="0" id="PINDIPLAYNAME_Port_4_2" text-anchor="start" style=" font-size:10; fill:#000000" y="315" x="564">
+    REDPin
+  </text>
+  <text startOffset="0" style=" font-size:10; fill:#000000; text-anchor:end" y="295" x="536">
+    39 P4[4]
+  </text>
+  <text startOffset="0" id="PINDIPLAYNAME_Port_4_4" text-anchor="start" style=" font-size:10; fill:#000000" y="295" x="564">
+    Port_4_4
+  </text>
+  <text startOffset="0" style=" font-size:10; fill:#000000; text-anchor:end" y="275" x="536">
+    40 P4[6]
+  </text>
+  <text startOffset="0" id="PINDIPLAYNAME_Port_4_6" text-anchor="start" style=" font-size:10; fill:#000000" y="275" x="564">
+    BLUEPin
+  </text>
+  <text startOffset="0" style=" font-size:10; fill:#000000; text-anchor:end" y="255" x="536">
+    41 P2[0]
+  </text>
+  <text startOffset="0" id="PINDIPLAYNAME_Port_2_0" text-anchor="start" style=" font-size:10; fill:#000000" y="255" x="564">
+    Port_2_0
+  </text>
+  <text startOffset="0" style=" font-size:10; fill:#000000; text-anchor:end" y="235" x="536">
+    42 P2[2]
+  </text>
+  <text startOffset="0" id="PINDIPLAYNAME_Port_2_2" text-anchor="start" style=" font-size:10; fill:#000000" y="235" x="564">
+    GREENPin
+  </text>
+  <path style="fill:indianred;stroke-width:2;stroke:black;" id="PO_43" d="M 160	160 m 325 0  l  0 20 l 10 0 l  0 -20" />
+  <g id="FFFCreateTopPins4Label0">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_CreateTopPins4Label0">
+        43 P2[4]
+      </textPath>
+    </text>
+  </g>
+  <g id="FFFPort_2_4">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_Port_2_4">
+        PWM
+      </textPath>
+    </text>
+  </g>
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_44" d="M 160	160 m 305 0  l  0 20 l 10 0 l  0 -20" />
+  <path style="fill:palegreen;stroke-width:2;stroke:black;" id="PO_45" d="M 160	160 m 285 0  l  0 20 l 10 0 l  0 -20" />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_46" d="M 160	160 m 265 0  l  0 20 l 10 0 l  0 -20" />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_47" d="M 160	160 m 245 0  l  0 20 l 10 0 l  0 -20" />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_48" d="M 160	160 m 225 0  l  0 20 l 10 0 l  0 -20" />
+  <path style="fill:white;stroke-width:2;stroke:black;" id="PO_49" d="M 160	160 m 205 0  l  0 20 l 10 0 l  0 -20" />
+  <path style="fill:white;stroke-width:2;stroke:black;" id="PO_50" d="M 160	160 m 185 0  l  0 20 l 10 0 l  0 -20" />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_51" d="M 160	160 m 165 0  l  0 20 l 10 0 l  0 -20" />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_52" d="M 160	160 m 145 0  l  0 20 l 10 0 l  0 -20" />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_53" d="M 160	160 m 125 0  l  0 20 l 10 0 l  0 -20" />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_54" d="M 160	160 m 105 0  l  0 20 l 10 0 l  0 -20" />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_55" d="M 160	160 m 85 0  l  0 20 l 10 0 l  0 -20" />
+  <path style="fill:lightskyblue;stroke-width:2;stroke:black;" id="PO_56" d="M 160	160 m 65 0  l  0 20 l 10 0 l  0 -20" />
+  <g id="FFFCreateTopPins4Label1">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_CreateTopPins4Label1">
+        44 P2[6]
+      </textPath>
+    </text>
+  </g>
+  <g id="FFFPort_2_6">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_Port_2_6">
+        Port_2_6
+      </textPath>
+    </text>
+  </g>
+  <g id="FFFCreateTopPins4Label2">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_CreateTopPins4Label2">
+        45 P0[0]
+      </textPath>
+    </text>
+  </g>
+  <g id="FFFPort_0_0">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_Port_0_0">
+        AnalogColumn_InputMUX_1
+      </textPath>
+    </text>
+  </g>
+  <g id="FFFCreateTopPins4Label3">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_CreateTopPins4Label3">
+        46 P0[2]
+      </textPath>
+    </text>
+  </g>
+  <g id="FFFPort_0_2">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_Port_0_2">
+        Port_0_2
+      </textPath>
+    </text>
+  </g>
+  <g id="FFFCreateTopPins4Label4">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_CreateTopPins4Label4">
+        47 P0[4]
+      </textPath>
+    </text>
+  </g>
+  <g id="FFFPort_0_4">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_Port_0_4">
+        Port_0_4
+      </textPath>
+    </text>
+  </g>
+  <g id="FFFCreateTopPins4Label5">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_CreateTopPins4Label5">
+        48 P0[6]
+      </textPath>
+    </text>
+  </g>
+  <g id="FFFPort_0_6">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_Port_0_6">
+        Port_0_6
+      </textPath>
+    </text>
+  </g>
+  <g id="FFFCreateTopPins4Label6">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_CreateTopPins4Label6">
+        49 VDD
+      </textPath>
+    </text>
+  </g>
+  <g id="FFFCreateTopPins4Label7">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_CreateTopPins4Label7">
+        50 VSS
+      </textPath>
+    </text>
+  </g>
+  <g id="FFF">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_">
+        
+      </textPath>
+    </text>
+  </g>
+  <g id="FFFCreateTopPins4Label8">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_CreateTopPins4Label8">
+        51 P0[7]
+      </textPath>
+    </text>
+  </g>
+  <g id="FFFPort_0_7">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_Port_0_7">
+        Port_0_7
+      </textPath>
+    </text>
+  </g>
+  <g id="FFFCreateTopPins4Label9">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_CreateTopPins4Label9">
+        52 P0[5]
+      </textPath>
+    </text>
+  </g>
+  <g id="FFFPort_0_5">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_Port_0_5">
+        Port_0_5
+      </textPath>
+    </text>
+  </g>
+  <g id="FFFCreateTopPins4Label10">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_CreateTopPins4Label10">
+        53 P0[3]
+      </textPath>
+    </text>
+  </g>
+  <g id="FFFPort_0_3">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_Port_0_3">
+        Port_0_3
+      </textPath>
+    </text>
+  </g>
+  <g id="FFFCreateTopPins4Label11">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_CreateTopPins4Label11">
+        54 P0[1]
+      </textPath>
+    </text>
+  </g>
+  <g id="FFFPort_0_1">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_Port_0_1">
+        Port_0_1
+      </textPath>
+    </text>
+  </g>
+  <g id="FFFCreateTopPins4Label12">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_CreateTopPins4Label12">
+        55 P2[7]
+      </textPath>
+    </text>
+  </g>
+  <g id="FFFPort_2_7">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_Port_2_7">
+        Port_2_7
+      </textPath>
+    </text>
+  </g>
+  <g id="FFFCreateTopPins4Label13">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_CreateTopPins4Label13">
+        56 P2[5]
+      </textPath>
+    </text>
+  </g>
+  <defs>
+    <path d="M 235	536 l 0 -200" id="EEEEE_PO_CreateBottomPins40" />
+    <path d="M 255	536 l 0 -200" id="EEEEE_PO_CreateBottomPins41" />
+    <path d="M 275	536 l 0 -200" id="EEEEE_PO_CreateBottomPins42" />
+    <path d="M 295	536 l 0 -200" id="EEEEE_PO_CreateBottomPins43" />
+    <path d="M 315	536 l 0 -200" id="EEEEE_PO_CreateBottomPins44" />
+    <path d="M 335	536 l 0 -200" id="EEEEE_PO_CreateBottomPins45" />
+    <path d="M 355	536 l 0 -200" id="EEEEE_PO_CreateBottomPins46" />
+    <path d="M 375	536 l 0 -200" id="EEEEE_PO_CreateBottomPins47" />
+    <path d="M 395	536 l 0 -200" id="EEEEE_PO_CreateBottomPins48" />
+    <path d="M 415	536 l 0 -200" id="EEEEE_PO_CreateBottomPins49" />
+    <path d="M 435	536 l 0 -200" id="EEEEE_PO_CreateBottomPins410" />
+    <path d="M 455	536 l 0 -200" id="EEEEE_PO_CreateBottomPins411" />
+    <path d="M 475	536 l 0 -200" id="EEEEE_PO_CreateBottomPins412" />
+    <path d="M 495	536 l 0 -200" id="EEEEE_PO_CreateBottomPins413" />
+    <path d="M 495	220 l 0 -200" id="EEEEE_CreateTopPins4Label0" />
+    <path d="M 495	156 l 0 -200" id="EEEEE_Port_2_4" />
+    <path d="M 475	220 l 0 -200" id="EEEEE_CreateTopPins4Label1" />
+    <path d="M 475	156 l 0 -200" id="EEEEE_Port_2_6" />
+    <path d="M 455	220 l 0 -200" id="EEEEE_CreateTopPins4Label2" />
+    <path d="M 455	156 l 0 -200" id="EEEEE_Port_0_0" />
+    <path d="M 435	220 l 0 -200" id="EEEEE_CreateTopPins4Label3" />
+    <path d="M 435	156 l 0 -200" id="EEEEE_Port_0_2" />
+    <path d="M 415	220 l 0 -200" id="EEEEE_CreateTopPins4Label4" />
+    <path d="M 415	156 l 0 -200" id="EEEEE_Port_0_4" />
+    <path d="M 395	220 l 0 -200" id="EEEEE_CreateTopPins4Label5" />
+    <path d="M 395	156 l 0 -200" id="EEEEE_Port_0_6" />
+    <path d="M 375	220 l 0 -200" id="EEEEE_CreateTopPins4Label6" />
+    <path d="M 375	156 l 0 -200" id="EEEEE_" />
+    <path d="M 355	220 l 0 -200" id="EEEEE_CreateTopPins4Label7" />
+    <path d="M 355	156 l 0 -200" id="EEEEE_" />
+    <path d="M 335	220 l 0 -200" id="EEEEE_CreateTopPins4Label8" />
+    <path d="M 335	156 l 0 -200" id="EEEEE_Port_0_7" />
+    <path d="M 315	220 l 0 -200" id="EEEEE_CreateTopPins4Label9" />
+    <path d="M 315	156 l 0 -200" id="EEEEE_Port_0_5" />
+    <path d="M 295	220 l 0 -200" id="EEEEE_CreateTopPins4Label10" />
+    <path d="M 295	156 l 0 -200" id="EEEEE_Port_0_3" />
+    <path d="M 275	220 l 0 -200" id="EEEEE_CreateTopPins4Label11" />
+    <path d="M 275	156 l 0 -200" id="EEEEE_Port_0_1" />
+    <path d="M 255	220 l 0 -200" id="EEEEE_CreateTopPins4Label12" />
+    <path d="M 255	156 l 0 -200" id="EEEEE_Port_2_7" />
+    <path d="M 235	220 l 0 -200" id="EEEEE_CreateTopPins4Label13" />
+    <path d="M 235	156 l 0 -200" id="EEEEE_Port_2_5" />
+  </defs>
+  <g id="FFFPort_2_5">
+    <text startOffset="0" style=" font-size:10; fill:#000000; ; text-anchor: start">
+      <textPath xlink:href="#EEEEE_Port_2_5">
+        Port_2_5
+      </textPath>
+    </text>
+  </g>
+  <rect height="0" width="0" />
+  <rect height="0" width="0" />
+  <rect height="0" width="0" />
+  <rect height="0" width="0" />
+  <rect height="0" width="0" />
+  <rect height="0" width="0" />
+  <rect height="0" width="0" />
+  <rect height="0" width="0" />
+  <rect height="0" width="0" />
+</svg>
