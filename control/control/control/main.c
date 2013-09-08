@@ -1118,21 +1118,25 @@ void PWM8_ISR(void)
 *  Parameters: none  
 *  Returns:    none 
 *  
-*  4 bytes Module -> PC:
+*  8 bytes Module -> PC:
 *  
-*  char 0 - sensor and button inputs as defined below
-*     bit 0 - power button
+*  char 0 - button inputs as defined below
+*     bit 0 - debounced power button
 *     bit 1 - spare
 *     bit 2 - spare
 *     bit 3 - spare
 *     bit 4 - spare
 *     bit 5 - spare
-*     bit 6 - USB connected (of no use to software as it will always be set)
+*     bit 6 - spare
 *  char 1 - Red dutycyle
 *  char 2 - Green dutycyle
 *  char 3 - Blue dutycyle
+*  char 4 - Temperature
+*  char 5 - Temperature+1
+*  char 6 - Temperature+2
+*  char 7 - Temperature+3
 *  
-*  4 bytes PC  -> Module:
+*  8 bytes PC  -> Module:
 *  
 *  char 0 - control bits defined below
 *     bit 0 - spare
@@ -1146,7 +1150,11 @@ void PWM8_ISR(void)
 *  char 1 - Red dutycycle
 *  char 2 - Green dutycycle
 *  char 3 - Blue dutycycle
-*  
+*  char 4 - spare
+*  char 5 - spare
+*  char 6 - spare
+*  char 7 - spare
+* 
 ************************************************************************/
 
 void CommunicateUSB(void)
